@@ -1,0 +1,2 @@
+// scripts
+console.log('OK!')
